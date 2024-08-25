@@ -12,7 +12,7 @@ Use the requirements.txt in the repository to set up a conda environment with th
 2. Download the Grad-CAM outputs from [here](https://drive.google.com/drive/folders/1s6-zz9EpUuLfpuNNaFPsmupBElN1suYr?usp=sharing) and place in the Data/Grad-CAMs Author folder.
 
 ## Models
-Download each model below, extract it, and place it in the Data/Model folder.
+Download each model below, extract it, and place it in the Data/Model folder. Make sure you download the folder, not just the individual file, for each model (e.g. best-kgm-author-model.pth/best-kgm-author-model.pth)
 1. [KGM Type](https://drive.google.com/drive/folders/1fUUlR6WwtlU36RbPgy4H48y6jc1Y1Dce?usp=sharing)
 2. [KGM Timeframe](https://drive.google.com/drive/folders/1bmi-8EAD9oc5J5Uw0i516lLm05zP1a0Z?usp=sharing)
 3. [KGM Author](https://drive.google.com/drive/folders/1uawuuDdVodJ7fc-pQpRcqwrXHN4EqHvQ?usp=sharing)
