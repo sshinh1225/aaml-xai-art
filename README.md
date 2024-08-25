@@ -5,7 +5,9 @@
 **Date:** 2024-08-25
 
 ## Environment
-Use the requirements.txt in the repository to set up a conda environment with the required packages. Alternatively, create a python environment using the pip version of the requirements.
+Use the requirements.txt in the repository to set up a conda environment with the required packages. Alternatively, create a python environment using the pip version of the requirements. Ensure that CUDA is enabled for your PyTorch and Torchvision installations. 
+
+More specfically, the major packages needed are: ex-fuzzy, torch, torchvision, scikit-learn, seaborn, scipy, pandas, and numpy.
 
 ## Data
 1. Download the SemArt dataset from [here](https://noagarcia.github.io/SemArt/) and place the images in the Data/Images folder.
