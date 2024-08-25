@@ -1,6 +1,6 @@
 # Explainable Artificial Intelligence for Context-Aware Art Models using Fuzzy Rule-Based Classification
 
-**Author:** Simran Shinh
+**Author:** Simran Shinh <br>
 **Class:** EN.705.742 - Advanced Applied Machine Learning   
 **Date:** 2024-08-25
 
