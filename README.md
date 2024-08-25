@@ -13,9 +13,9 @@ Use the requirements.txt in the repository to set up a conda environment with th
 
 ## Models
 Download each model below, extract it, and place it in the Data/Model folder.
-1. [KGM Type](https://drive.google.com/file/d/1FZZdj_mX6qyS6HlORR9FKBnXg96jb4i1/view?usp=sharing)
-2. [KGM Timeframe](https://drive.google.com/file/d/1zRYzydsINTITX6eJme2IIM_-Bqls8Tvt/view?usp=sharing)
-3. [KGM Author](https://drive.google.com/file/d/1pS9nmbCa4B9imVjGtQhgz6wyGe2v7irq/view?usp=sharing)
+1. [KGM Type](https://drive.google.com/drive/folders/1fUUlR6WwtlU36RbPgy4H48y6jc1Y1Dce?usp=sharing)
+2. [KGM Timeframe](https://drive.google.com/drive/folders/1bmi-8EAD9oc5J5Uw0i516lLm05zP1a0Z?usp=sharing)
+3. [KGM Author](https://drive.google.com/drive/folders/1uawuuDdVodJ7fc-pQpRcqwrXHN4EqHvQ?usp=sharing)
 
 ## Documents
 - [Research Paper](documents/paper.pdf)
